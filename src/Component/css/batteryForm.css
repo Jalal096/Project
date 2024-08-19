@@ -1,0 +1,39 @@
+.battery-form {
+    margin: 20px !important;
+}
+
+.inspection-class {
+    margin: 10px;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.label-color-black {
+    color: black !important;
+}
+
+#inspection-done-label, #battery-age-label, #battery-quality-label {
+    font-size: 20px;
+    color: black;
+}
+
+#kms-run-text {
+    width: 250px !important;
+}
+
+.give-some-space {
+    padding: 10px 0;
+}
+
+.submit-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+input[type="file" i] {
+    margin: 0 10px;
+    width: 55%;
+}

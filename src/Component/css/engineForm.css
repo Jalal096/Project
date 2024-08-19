@@ -1,0 +1,42 @@
+.engine-form {
+    margin: 20px !important;
+}
+
+.inspection-class {
+    margin: 10px;
+}
+
+.m-10 {
+    margin: 10px;
+}
+
+.label-color-black {
+    color: black !important;
+}
+
+#inspection-done-label, #oil-age-label, #oil-quality-label {
+    font-size: 20px;
+    color: black;
+}
+
+#kms-run-text {
+    width: 250px !important;
+}
+
+#change-years, #change-months {
+    width: 95px !important;
+}
+
+.number-drop-down {
+    display: flex;
+}
+
+.give-some-space {
+    padding: 10px 0;
+}
+
+.submit-button {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}

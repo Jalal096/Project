@@ -5,11 +5,11 @@ function Header() {
   return (
     <header>
       <nav>
-        <div class="navbar">
-          <div class="logo">
+        <div className="navbar">
+          <div className="logo">
             <h2>Logo</h2>
           </div>
-          <div class="company-name">
+          <div className="company-name">
             <h1>Company Name</h1>
           </div>
         </div>
